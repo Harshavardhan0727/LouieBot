@@ -1,0 +1,67 @@
+{
+  "question": [
+    "Q1. How do you check out a calculator from the front desk?",
+    "Q2. There are 4 entrances into the Engineering building?",
+    "Q3. What year did CEFNS and CEIAS split?",
+    "Q4. How many student clubs and organizations are affiliated with CEIAS?",
+    "Q5. What is the name of the Dean of CEIAS?",
+    "Q6. What is the name of the center within APMS?",
+    "Q7. How many PhD programs are offered through CEIAS?",
+    "Q8. How many full-time faculty does CEIAS have for Spring 21?"
+  ],
+  "answer": [
+    1,
+    2,
+    2,
+    2,
+    3,
+    2,
+    4,
+    2
+  ],
+  "options": [
+
+    ["leave your id at front desk",
+      "paying money",
+      "Leaving a deposit",
+      "Emailing the desk"
+    ],
+    ["True",
+      "False",
+      "None of these",
+      "All the above"
+
+
+    ],
+    ["2017",
+      "2018",
+      "2019",
+      "2015"
+    ],
+    ["28",
+      "26",
+      "29",
+      "27"
+    ],
+     ["Andy wang",
+      "jarret barber",
+      "david",
+      "None of these"
+    ],
+    ["CERA",
+      "MIRA",
+      "NERA",
+      "PCRA"
+    ],
+    ["1",
+      "2",
+      "3",
+      "4"
+    ],
+    ["99",
+      "97",
+      "92",
+      "91"
+    ]
+  ]
+}
